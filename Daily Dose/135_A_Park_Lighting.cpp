@@ -27,7 +27,7 @@ using LLI = long long int;
 
 // S@ndip : Shree Ganeshay Namah
 // https://codeforces.com/problemset/problem/1358/A
-// Pure Logic 
+
 
 int main()
 {
