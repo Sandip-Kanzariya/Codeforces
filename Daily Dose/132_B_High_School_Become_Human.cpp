@@ -27,7 +27,6 @@ using LLI = long long int;
 
 // S@ndip : Shree Ganeshay Namah
 // https://codeforces.com/contest/987/problem/B
-// https://qr.ae/pvxtPc
 
 int main()
 {
