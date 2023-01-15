@@ -67,7 +67,6 @@ auto sum(T a, Args... args) { return a + sum(args...); }
 // S@ndip : Shree Ganeshay Namah
 // https://codeforces.com/problemset/problem/1702/A
 
-// Think out of bound and do 
 
 vector<int> v = {1, 1, 10, 100, 1000, 10000, 100000, 1000000, 10000000, 100000000, 1000000000};
 int main()
