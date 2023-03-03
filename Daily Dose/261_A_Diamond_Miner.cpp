@@ -101,8 +101,9 @@ int main()
         for (int i = 0; i < n; i++)
         {
             ans += sqrt(1.0 * ax[i] * ax[i] + 1.0 * ay[i] * ay[i]);
-            // ans += sqrt(ax[i] * ax[i] + ay[i] * ay[i]);
+            // ans += sqrt(ax[i] * ax[i] + ay[i] * ay[i]); // This will give overflow of int 
         }
+        // Below both lines are accepted
         // cout << setprecision(16) << ans << "\n";
         printf("%.15lf\n", ans);
         
