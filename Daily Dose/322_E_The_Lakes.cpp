@@ -2,7 +2,7 @@
 
 using namespace std;
 
-using LLI = long long int;
+using LLI = long long int; 
 #define all(a) a.begin(), a.end()
 
 template <typename T>
